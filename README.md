@@ -1,4 +1,7 @@
 # tastedive-api-documentation
+[![Documentation Status](https://readthedocs.org/projects/tastedive-api-documentation/badge/?version=latest)](https://tastedive-api-documentation.readthedocs.io/en/latest/?badge=latest)
+[![Generic badge](https://img.shields.io/badge/build-passing-<COLOR>.svg)](https://tastedive-api-documentation.readthedocs.io/en/latest/?badge=latest)
+
 Documentation of the TasteDive API. </br>
 Documentation is also available on [readthedocs.io](https://tastedive-api-documentation.readthedocs.io/en/latest/)
 ## Set-up 

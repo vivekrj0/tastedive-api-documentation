@@ -1,5 +1,6 @@
 # tastedive-api-documentation
-Documentation of the TasteDive API. 
+Documentation of the TasteDive API. </br>
+Documentation is also available on [readthedocs.io](https://tastedive-api-documentation.readthedocs.io/en/latest/)
 ## Set-up 
 
 TasteDive API Documentation using Sphinx, a tool to facilitate the generation of nice-looking documentation. Before you install Sphinx, you may want to set-up a virtualized development environment: learn [how to set up virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/).

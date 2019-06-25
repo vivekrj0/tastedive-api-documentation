@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'tastedive-api-documentation'
-copyright = '2019, Vive Raj'
+copyright = '2019, Vivek Raj'
 author = 'Vivek Raj'
 
 # The version info for the project you're documenting, acts as replacement for
